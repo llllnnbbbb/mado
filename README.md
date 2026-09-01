@@ -21,7 +21,7 @@
 
 | 平台                        | 下载链接                                                                                                                        | 状态    |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Windows x64               | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| Windows x64               | [GitHub Releases](https://github.com/llllnnbbbb/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
 | macOS (Apple Silicon M芯片) | —                                                                                                                           | 暂无    |
 | Android                   | —                                                                                                                           | 暂无    |
 
