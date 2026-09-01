@@ -1,33 +1,35 @@
-# 📝  Mado
+# 📝 Mado
 
-一款简洁、高效的 Markdown 编辑器，本来想用于Iphone 浏览使用的，结果发现实力不允许。
+一款简洁、高效、免费的 Markdown 编辑器，专为写作而生。
 
-![软件截图](https://你的图床链接/screenshot.png)
+![软件截图](images/05-context-menu.png)
 
 > ⚠️ **项目状态说明**：本项目目前已进入**维护模式**，不再开发新功能，仅修复 Bug 和进行必要的兼容性维护。如果你需要更多高级功能，建议寻找其他更活跃的替代方案。
 
 ## ✨ 特性
 
-- 📄 实时预览，所见即所得
-- 🌙 深色/浅色主题切换
-- 📁 文件管理，支持多标签页
-- 🔍 全文搜索
-- 📊 支持表格、代码高亮、数学公式
-- ⚡ 轻量快速，启动即写
+* 📄 即时渲染编辑，所见即所得
+* 🌙 浅色 / 深色主题，支持字体缩放
+* 📑 目录大纲（可显示 / 隐藏），点击跳转
+* 🔍 全文搜索，匹配高亮与上一项 / 下一项
+* 📊 表格编辑（插入行列、对齐、多格选区）、任务列表、代码高亮
+* 📎 拖拽打开本地 Markdown，导出 HTML / PDF
+* 🔒 纯本地运行，不收集个人信息
+* ⚡ 轻量快速，启动即写
 
 ## 📥 下载
 
-| 平台 | 下载链接 | 状态 |
-|------|---------|------|
-| Windows x64 | [📦 下载最新版本](https://github.com/mmuuyyuu/mado/releases/latest) | ✅ 已支持 |
-| macOS (Apple Silicon M1/M2/M3) | [📦 下载最新版本](https://github.com/mmuuyyuu/mado/releases/latest) | 🚧 开发中 |
-| Android | [📦 下载最新版本](https://github.com/mmuuyyuu/mado/releases/latest) | 🚧 开发中 |
+| 平台                        | 下载链接                                                                                                                        | 状态    |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Windows x64               | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| macOS (Apple Silicon M芯片) | —                                                                                                                           | 暂无    |
+| Android                   | —                                                                                                                           | 暂无    |
 
 > 💡 iPhone / iPad 暂不支持（没有开发者账号，懂的都懂 😢）
 
-## 🎬 演示
+## 📖 用户手册
 
-👉 [B站视频：mado 功能演示](https://b23.tv/你的视频链接)
+👉 [查看用户手册](docs/manual/用户手册.md)（界面说明、目录开关、表格与快捷键等）
 
 ## 💖 支持作者
 
@@ -35,12 +37,12 @@
 
 **软件完全免费，打赏自愿，感谢你的支持！**
 
-![微信收款码](https://你的图床链接/wechat-qr-code.jpg)
+<img src="images/wx.jpg" width="240" alt="微信收款码" />
 
 ## 📄 许可证
 
 本项目采用 [MIT License](LICENSE) 授权，源代码仅供学习参考，未经授权不得用于商业目的。
 
----
+***
 
 📮 反馈建议请提 [Issue](https://github.com/mmuuyyuu/mado/issues)
