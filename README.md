@@ -21,10 +21,20 @@
 
 | 平台                        | 下载链接                                                                                                                        | 状态    |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Windows x64               | [GitHub Releases](https://github.com/llllnnbbbb/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
-| macOS (Apple Silicon M芯片) | —                                                                                                                           | 暂无    |
+| Windows x64               | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| macOS（Apple Silicon） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
 | Android                   | —                                                                                                                           | 暂无    |
 
+> ⚠️ **macOS 说明**：目前没有 Apple 开发者账号，安装包**未经 Apple 公证 / 签名**。首次打开时，系统可能会提示「无法验证开发者」或「已损坏」，这是正常现象，按下面任一方式即可打开：
+>
+> 1. **右键打开（推荐）**：在 Finder 中找到 `.app` → **按住 Control 键点击**（或右键）→ 选择「打开」→ 在弹窗中再次点「打开」。
+> 2. **系统设置放行**：打开「系统设置 → 隐私与安全性」，向下滚动到安全性区域，会看到曾被拦截的 Mado，点击「仍要打开」即可。
+> 3. 若仍提示「已损坏」，可在「终端」执行（把路径换成你实际的 App 位置）：
+>    ```bash
+>    xattr -cr /Applications/Mado.app
+>    ```
+>    然后再用方式 1 打开。
+>
 > 💡 iPhone / iPad 暂不支持（没有开发者账号，懂的都懂 😢）
 
 ## 📖 用户手册
@@ -45,4 +55,4 @@
 
 ***
 
-📮 反馈建议请提 [Issue](https://github.com/llllnnbbbb/mado/issues)
+📮 反馈建议请提 [Issue](https://github.com/mmuuyyuu/mado/issues)
