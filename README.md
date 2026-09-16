@@ -23,7 +23,8 @@
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
 | Windows x64               | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
 | macOS（Apple Silicon） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases]
-| linux（ubuntu） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases]
+(https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| linux（ubuntu x64） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases]
 (https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
 | Android                   | —                                                                                                                           | 暂无    |
 
