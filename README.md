@@ -2,7 +2,7 @@
 
 一款简洁、高效、免费的 Markdown 编辑器，专为写作而生。
 
-![软件截图](images/05-context-menu.png)
+![软件截图](images/05-context-menu.png "软件截图")
 
 > ⚠️ **项目状态说明**：本项目目前已进入**维护模式**，不再开发新功能，仅修复 Bug 和进行必要的兼容性维护。如果你需要更多高级功能，建议寻找其他更活跃的替代方案。
 
@@ -19,14 +19,12 @@
 
 ## 📥 下载
 
-| 平台                        | 下载链接                                                                                                                        | 状态    |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
-| Windows x64               | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
-| macOS（Apple Silicon） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases]
-(https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
-| linux（ubuntu x64） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases]
-(https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
-| Android                   | —                                                                                                                           | 暂无    |
+| 平台                   | 下载链接                                                                                                                        | 状态    |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :---- |
+| Windows x64          | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| macOS（Apple Silicon） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| linux（ubuntu x64）    | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| Android              | —                                                                                                                           | 暂无    |
 
 > ⚠️ **macOS 说明**：目前没有 Apple 开发者账号，安装包**未经 Apple 公证 / 签名**。首次打开时，系统可能会提示「无法验证开发者」或「已损坏」，这是正常现象，按下面任一方式即可打开：
 >
