@@ -22,7 +22,9 @@
 | 平台                        | 下载链接                                                                                                                        | 状态    |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- |
 | Windows x64               | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
-| macOS（Apple Silicon） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases](https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
+| macOS（Apple Silicon） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases]
+| linux（ubuntu） | [GitHub Releases](https://github.com/mmuuyyuu/mado/releases) · [Gitee Releases]
+(https://gitee.com/llllnnbbbb/mado/releases) | ✅ 已支持 |
 | Android                   | —                                                                                                                           | 暂无    |
 
 > ⚠️ **macOS 说明**：目前没有 Apple 开发者账号，安装包**未经 Apple 公证 / 签名**。首次打开时，系统可能会提示「无法验证开发者」或「已损坏」，这是正常现象，按下面任一方式即可打开：
